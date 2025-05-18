@@ -84,4 +84,4 @@ This mod is licensed under the MIT License. See `LICENSE` for details.
 Feel free to submit issues or pull requests on the repository (if hosted). For questions, contact the author.
 
 ## Author
-- YourName (replace with your name or pseudonym)
+anidaw775
